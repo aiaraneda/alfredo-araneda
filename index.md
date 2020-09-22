@@ -1,8 +1,6 @@
 
 
-
-
-![](https://github.com/aiaraneda/alfredo-araneda/blob/gn_page/my_photo.png?raw=true | width=100).
+<img src="https://github.com/aiaraneda/alfredo-araneda/blob/gn_page/my_photo.png" width="100" height="100">
 Alfredo was born in Santiago of Chile in 1992. He studied  Biological Sciences at Pontifical Catholic University of Chile and obtained his bachelor degree at 2018.
 In his university life, alfredo did different laboratory internships: [Hugo Olguin](http://postgrado.bio.uc.cl/facultad/profesores/hugo-olguin/), 
 exploring cell biology for the first time, still in the cell biology department of the Uc, alfredo spends six months with [Juan Larrain](http://postgrado.bio.uc.cl/facultad/profesores/juan-larrain/)
